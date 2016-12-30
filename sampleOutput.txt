@@ -1,0 +1,217 @@
+Fight in map 1
+Exercise in Simple_PVE_ENV
+I am a fresh hero!
+hp: 101, mp: 100, atk: 20, def: 10, spd: 5, location: 0, remain_exp: 50
+I am a fresh hero!
+hp: 100, mp: 101, atk: 20, def: 10, spd: 5, location: 99, remain_exp: 50
+Exercise in General_PVE_ENV
+I am a fresh hero!
+hp: 102, mp: 101, atk: 21, def: 11, spd: 6, location: 0, remain_exp: 10
+I am a fresh hero!
+hp: 101, mp: 102, atk: 21, def: 11, spd: 6, location: 99, remain_exp: 10
+Exercise in General_PVE_ENV
+I am a warrior!
+hp: 103, mp: 102, atk: 22, def: 22, spd: 7, armor: 30, location: 0, remain_exp: 100
+I am a mage!
+hp: 102, mp: 103, atk: 32, def: 12, spd: 7, wand: 30, location: 99, remain_exp: 100
+Begin to fight
+Round 0:
+I am a warrior!
+hp: 102, mp: 102, atk: 24, def: 22, spd: 7, armor: 30, location: 7, remain_exp: 84
+I am a mage!
+hp: 101, mp: 103, atk: 34, def: 12, spd: 7, wand: 30, location: 92, remain_exp: 84
+
+Round 1:
+I am a warrior!
+hp: 101, mp: 102, atk: 26, def: 22, spd: 7, armor: 30, location: 14, remain_exp: 68
+I am a mage!
+hp: 100, mp: 103, atk: 36, def: 12, spd: 7, wand: 30, location: 85, remain_exp: 68
+
+Round 2:
+I am a warrior!
+hp: 100, mp: 102, atk: 28, def: 22, spd: 7, armor: 30, location: 21, remain_exp: 52
+I am a mage!
+hp: 99, mp: 103, atk: 38, def: 12, spd: 7, wand: 30, location: 78, remain_exp: 52
+
+Round 3:
+I am a warrior!
+hp: 99, mp: 102, atk: 30, def: 22, spd: 7, armor: 30, location: 28, remain_exp: 36
+I am a mage!
+hp: 98, mp: 103, atk: 40, def: 12, spd: 7, wand: 30, location: 71, remain_exp: 36
+
+Round 4:
+I am a warrior!
+hp: 98, mp: 102, atk: 32, def: 22, spd: 7, armor: 30, location: 35, remain_exp: 20
+I am a mage!
+hp: 97, mp: 103, atk: 42, def: 12, spd: 7, wand: 30, location: 64, remain_exp: 20
+
+Round 5:
+I am a warrior!
+hp: 97, mp: 102, atk: 34, def: 22, spd: 7, armor: 30, location: 42, remain_exp: 4
+I am a mage!
+hp: 96, mp: 103, atk: 44, def: 12, spd: 7, wand: 30, location: 57, remain_exp: 4
+
+
+Round 6:
+I am a berserker!
+hp: 82, mp: 102, atk: 41, def: 22, spd: 7, armor: 20, location: 49, remain_exp: 0
+I am a magician!
+hp: 95, mp: 103, atk: 56, def: 12, spd: 7, wand: 40, location: 50, remain_exp: 0
+
+
+Round 7:
+I am a berserker!
+hp: 11, mp: 97, atk: 43, def: 22, spd: 7, armor: 0, location: 50, remain_exp: 0
+I am a magician!
+hp: 29, mp: 93, atk: 58, def: 12, spd: 7, wand: 30, location: 50, remain_exp: 0
+
+Round 8:
+I am a berserker!
+hp: 0, mp: 92, atk: 45, def: 22, spd: 7, armor: 0, location: 50, remain_exp: 0
+I am a magician!
+hp: 0, mp: 83, atk: 60, def: 12, spd: 7, wand: 20, location: 50, remain_exp: 0
+Tie!
+
+Fight in map 2
+Exercise in Simple_PVE_ENV
+I am a fresh hero!
+hp: 101, mp: 100, atk: 20, def: 10, spd: 5, location: 0, remain_exp: 50
+I am a fresh hero!
+hp: 100, mp: 101, atk: 20, def: 10, spd: 5, location: 99, remain_exp: 50
+Begin to fight
+Round 0:
+I am a fresh hero!
+hp: 101, mp: 100, atk: 20, def: 10, spd: 6, location: 5, remain_exp: 40
+I am a fresh hero!
+hp: 100, mp: 101, atk: 20, def: 11, spd: 5, location: 94, remain_exp: 30
+
+Round 1:
+I am a fresh hero!
+hp: 101, mp: 100, atk: 20, def: 10, spd: 7, location: 11, remain_exp: 30
+I am a fresh hero!
+hp: 100, mp: 101, atk: 20, def: 11, spd: 6, location: 89, remain_exp: 20
+
+Round 2:
+I am a fresh hero!
+hp: 101, mp: 100, atk: 20, def: 11, spd: 7, location: 18, remain_exp: 10
+I am a fresh hero!
+hp: 100, mp: 101, atk: 20, def: 11, spd: 7, location: 83, remain_exp: 10
+
+Round 3:
+I am a warrior!
+hp: 101, mp: 100, atk: 20, def: 21, spd: 8, armor: 30, location: 25, remain_exp: 100
+I am a mage!
+hp: 100, mp: 101, atk: 30, def: 12, spd: 7, wand: 30, location: 76, remain_exp: 100
+
+Round 4:
+I am a warrior!
+hp: 101, mp: 100, atk: 20, def: 21, spd: 9, armor: 30, location: 33, remain_exp: 90
+I am a mage!
+hp: 100, mp: 101, atk: 30, def: 12, spd: 8, wand: 30, location: 69, remain_exp: 90
+
+Round 5:
+I am a warrior!
+hp: 101, mp: 100, atk: 20, def: 22, spd: 9, armor: 30, location: 42, remain_exp: 70
+I am a mage!
+hp: 100, mp: 101, atk: 30, def: 12, spd: 9, wand: 30, location: 61, remain_exp: 80
+
+Round 6:
+I am a warrior!
+hp: 101, mp: 100, atk: 20, def: 22, spd: 10, armor: 7, location: 51, remain_exp: 60
+I am a mage!
+hp: 100, mp: 101, atk: 30, def: 12, spd: 9, wand: 20, location: 52, remain_exp: 60
+
+Round 7:
+I am a warrior!
+hp: 85, mp: 100, atk: 20, def: 22, spd: 10, armor: 0, location: 52, remain_exp: 40
+I am a mage!
+hp: 97, mp: 96, atk: 30, def: 12, spd: 9, wand: 10, location: 52, remain_exp: 40
+
+
+Round 8:
+I am a warrior!
+hp: 62, mp: 100, atk: 20, def: 22, spd: 10, armor: 0, location: 52, remain_exp: 20
+I am a mage!
+hp: 94, mp: 91, atk: 30, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 20
+
+Round 9:
+I am a knight!
+hp: 54, mp: 100, atk: 30, def: 22, spd: 15, armor: 40, location: 52, remain_exp: 0
+I am a healer!
+hp: 91, mp: 106, atk: 20, def: 12, spd: 9, wand: 60, location: 52, remain_exp: 0
+
+
+Round 10:
+I am a knight!
+hp: 54, mp: 95, atk: 30, def: 22, spd: 15, armor: 32, location: 52, remain_exp: 0
+I am a healer!
+hp: 83, mp: 96, atk: 20, def: 12, spd: 9, wand: 50, location: 52, remain_exp: 0
+
+Round 11:
+I am a knight!
+hp: 54, mp: 90, atk: 30, def: 22, spd: 15, armor: 24, location: 52, remain_exp: 0
+I am a healer!
+hp: 75, mp: 86, atk: 20, def: 12, spd: 9, wand: 40, location: 52, remain_exp: 0
+
+Round 12:
+I am a knight!
+hp: 54, mp: 85, atk: 30, def: 22, spd: 15, armor: 16, location: 52, remain_exp: 0
+I am a healer!
+hp: 67, mp: 76, atk: 20, def: 12, spd: 9, wand: 30, location: 52, remain_exp: 0
+
+Round 13:
+I am a knight!
+hp: 54, mp: 80, atk: 30, def: 22, spd: 15, armor: 8, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 59, mp: 66, atk: 20, def: 12, spd: 9, wand: 20, location: 52, remain_exp: 0
+
+Round 14:
+I am a knight!
+hp: 54, mp: 75, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 51, mp: 56, atk: 20, def: 12, spd: 9, wand: 10, location: 52, remain_exp: 0
+
+Round 15:
+I am a knight!
+hp: 46, mp: 70, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 43, mp: 46, atk: 20, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 0
+
+Round 16:
+I am a knight!
+hp: 46, mp: 65, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 35, mp: 36, atk: 20, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 0
+
+Round 17:
+I am a knight!
+hp: 46, mp: 60, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 27, mp: 26, atk: 20, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 0
+
+Round 18:
+I am a knight!
+hp: 46, mp: 55, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 19, mp: 16, atk: 20, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 0
+
+Round 19:
+I am a knight!
+hp: 46, mp: 50, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 11, mp: 6, atk: 20, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 0
+
+Round 20:
+I am a knight!
+hp: 46, mp: 45, atk: 30, def: 22, spd: 15, armor: 0, location: 52, remain_exp: 0
+
+I am a healer!
+hp: 0, mp: 1, atk: 20, def: 12, spd: 9, wand: 0, location: 52, remain_exp: 0
+red wins!
